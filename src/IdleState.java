@@ -1,3 +1,5 @@
+package src;
+
 public class IdleState implements State {
     private ATM atm;
 

@@ -1,3 +1,5 @@
+package src;
+
 public class ProcessingState implements State {
     private ATM atm;
     private String type;

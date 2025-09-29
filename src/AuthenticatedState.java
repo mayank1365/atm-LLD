@@ -1,3 +1,5 @@
+package src;
+
 public class AuthenticatedState implements State {
     private ATM atm;
 

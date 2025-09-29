@@ -1,3 +1,5 @@
+package src;
+
 public class ATM {
     private int balance;
     private State state;

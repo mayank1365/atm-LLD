@@ -1,3 +1,5 @@
+package src;
+
 public class BankServer {
     private int balance = 5000;
 

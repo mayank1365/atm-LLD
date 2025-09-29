@@ -1,3 +1,5 @@
+package src;
+
 public class CardInsertedState implements State {
     private ATM atm;
 
